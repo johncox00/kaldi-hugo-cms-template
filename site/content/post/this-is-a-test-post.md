@@ -1,6 +1,6 @@
 ---
 title: This is a test post
-date: 2017-05-19T09:00:39-06:00
+date: 2017-05-18T09:00:39-06:00
 description: 'When you need to test the CMS, this is how you do it.'
 image: /img/worm.jpeg
 ---
